@@ -1,0 +1,35 @@
+//Colores
+.color(()=>cc[93]*10-5, ()=>cc[73]*10-5, ()=>cc[75]*10-5)
+
+//Columna 1
+(()=>cc[18], ()=>cc[74])
+
+//Columna 2
+(()=>cc[19, ()=>cc[71)
+
+//Columna 3
+(()=>cc[16, ()=>cc[76])
+
+//Columna 4
+(()=>cc[17], ()=>cc[77])
+
+//Knob 14
+( ()=>cc[91] )
+
+//Columna 15
+( ()=>cc[79] )
+
+//Columna 16
+( ()=>cc[72] )
+
+//Lever 64 (0,5 +- 0,5)
+( ()=>cc[0] )
+
+//Swipe
+( ()=>cc[1] )
+
+//Knob Button 1 (0 o 1)
+( ()=>cc[113] )
+
+//Knob Button 9 (0 o 1)
+( ()=>cc[115] )
