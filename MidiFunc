@@ -16,10 +16,10 @@
 //Knob 14
 ( ()=>cc[91] )
 
-//Columna 15
+//Knob 15
 ( ()=>cc[79] )
 
-//Columna 16
+//Knob 16
 ( ()=>cc[72] )
 
 //Lever 64 (0,5 +- 0,5)
